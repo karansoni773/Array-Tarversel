@@ -1,3 +1,4 @@
+// Code by Karansoni7773
 #include<stdio.h>
 #define size 100
 void main()
